@@ -1,0 +1,12 @@
+[class*="col"]{
+    background-color: blue;
+    border: 1px solid white;
+    color: white;
+    text-align: center;
+}
+
+.nest{
+    background-color: yellowgreen;
+    border: 1px solid blue;
+    height: 100%;
+}
